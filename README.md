@@ -88,27 +88,9 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## Original Project
-
-This project was developed as a team project for MCA Full Stack Development.
-
-Original Repository:
-https://github.com/Pavanclg/smart-community-management-system
-
----
-
 ## My Contribution
 
 This repository showcases my contribution to the Smart Community Management System project.
-
-### Backend Development
-
-* Developed Authentication APIs
-* Implemented JWT Authentication and Authorization
-* Created User Profile APIs
-* Developed Issue Management APIs (Create, Read, Update, Delete)
-* Implemented Notification APIs
-* Developed Sustainability APIs
 
 ### Database Design
 
@@ -136,22 +118,77 @@ Designed MongoDB collections and Mongoose schemas for:
 
 ---
 
-## Contributor
+My Contribution
 
-### Riaz Rakib Rahman
+This repository showcases my contribution to the Smart Community Management System project.
 
-#### Role
+👨‍💻 Role
 
-Backend Development and Database Design
+Database Designer & API Developer
 
-#### Assigned Jira Tasks
+🗄️ Database Design
+FULL-36 Database Schema Design
 
-* FULL-36 Database Schema Design
-* FULL-37 Authentication and API Development
-* FULL-38 Issue Management API
+Designed MongoDB collections and Mongoose schemas for:
 
----
+User
+Issue
+Notification
+Sustainability
 
-## Acknowledgement
+Responsibilities:
+
+Designed MongoDB database architecture
+Created Mongoose schemas
+Defined field validations
+Established ObjectId relationships
+Configured MongoDB Atlas database
+Structured collections for scalability
+🔧 API Development
+FULL-37 Authentication and API Development
+
+Developed:
+
+User Registration API
+User Login API
+JWT Authentication
+Authorization Middleware
+User Profile API
+FULL-38 Issue Management API
+
+Developed:
+
+Create Issue API
+Get Issues API
+Update Issue Status API
+Delete Issue API
+Notification APIs
+Sustainability APIs
+
+💻 Technologies Used
+Node.js
+Express.js
+MongoDB Atlas
+Mongoose
+JWT
+Multer
+REST APIs
+
+📋 Jira Tasks
+FULL-36 Database Schema Design
+FULL-37 Authentication and API Development
+FULL-38 Issue Management API
+
+👤 Contributor
+Riaz Rakib Rahman
+
+Role: Database Designer & API Developer
+
+Assigned Jira Tasks
+FULL-36 Database Schema Design
+FULL-37 Authentication and API Development
+FULL-38 Issue Management API
+
+🙏 Acknowledgement
 
 Special thanks to all team members who contributed to the development of the Smart Community Management System project.
