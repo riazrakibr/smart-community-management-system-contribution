@@ -48,10 +48,8 @@ https://smart-community-management-system-1.onrender.com
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Pavanclg/smart-community-management-system.git
+git clone https://github.com/riazrakibr/smart-community-management-system-contribution.git
 ```
-
----
 
 ### Frontend Setup
 
@@ -60,8 +58,6 @@ cd client
 npm install
 npm run dev
 ```
-
----
 
 ### Backend Setup
 
@@ -75,7 +71,7 @@ npm start
 
 ## Environment Variables
 
-Create `.env` file inside server folder:
+Create a `.env` file inside the server folder:
 
 ```env
 MONGO_URI=your_mongodb_url
@@ -89,6 +85,17 @@ JWT_SECRET=your_secret_key
 * Frontend Hosted on Render Static Site
 * Backend Hosted on Render Web Service
 * Database Hosted on MongoDB Atlas
+
+---
+
+## Original Project
+
+This project was developed as a team project for MCA Full Stack Development.
+
+Original Repository:
+https://github.com/Pavanclg/smart-community-management-system
+
+---
 
 ## My Contribution
 
@@ -127,16 +134,24 @@ Designed MongoDB collections and Mongoose schemas for:
 * FULL-37 Authentication and API Development
 * FULL-38 Issue Management API
 
-
 ---
 
 ## Contributor
 
-Riaz Rakib Rahman
+### Riaz Rakib Rahman
 
-### Contribution
-- Database Schema Design
-- Authentication API Development
-- Issue Management API
-- MongoDB Models
-- JWT Authentication
+#### Role
+
+Backend Development and Database Design
+
+#### Assigned Jira Tasks
+
+* FULL-36 Database Schema Design
+* FULL-37 Authentication and API Development
+* FULL-38 Issue Management API
+
+---
+
+## Acknowledgement
+
+Special thanks to all team members who contributed to the development of the Smart Community Management System project.
