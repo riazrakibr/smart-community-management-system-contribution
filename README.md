@@ -88,11 +88,19 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## My Contribution
+# My Contribution
 
 This repository showcases my contribution to the Smart Community Management System project.
 
-### Database Design
+## 👨‍💻 Role
+
+**Database Designer & API Developer**
+
+---
+
+## 🗄️ Database Design
+
+### FULL-36 Database Schema Design
 
 Designed MongoDB collections and Mongoose schemas for:
 
@@ -101,7 +109,43 @@ Designed MongoDB collections and Mongoose schemas for:
 * Notification
 * Sustainability
 
-### Technologies Used
+### Responsibilities
+
+* Designed MongoDB database architecture
+* Created Mongoose schemas
+* Defined field validations
+* Established ObjectId relationships
+* Configured MongoDB Atlas database
+* Structured collections for scalability
+
+---
+
+## 🔧 API Development
+
+### FULL-37 Authentication and API Development
+
+Developed:
+
+* User Registration API
+* User Login API
+* JWT Authentication
+* Authorization Middleware
+* User Profile API
+
+### FULL-38 Issue Management API
+
+Developed:
+
+* Create Issue API
+* Get Issues API
+* Update Issue Status API
+* Delete Issue API
+* Notification APIs
+* Sustainability APIs
+
+---
+
+## 💻 Technologies Used
 
 * Node.js
 * Express.js
@@ -109,8 +153,11 @@ Designed MongoDB collections and Mongoose schemas for:
 * Mongoose
 * JWT
 * Multer
+* REST APIs
 
-### Jira Tasks
+---
+
+## 📋 Jira Tasks
 
 * FULL-36 Database Schema Design
 * FULL-37 Authentication and API Development
@@ -118,77 +165,20 @@ Designed MongoDB collections and Mongoose schemas for:
 
 ---
 
-My Contribution
+## 👤 Contributor
 
-This repository showcases my contribution to the Smart Community Management System project.
+### Riaz Rakib Rahman
 
-👨‍💻 Role
+**Role:** Database Designer & API Developer
 
-Database Designer & API Developer
+### Assigned Jira Tasks
 
-🗄️ Database Design
-FULL-36 Database Schema Design
+* FULL-36 Database Schema Design
+* FULL-37 Authentication and API Development
+* FULL-38 Issue Management API
 
-Designed MongoDB collections and Mongoose schemas for:
+---
 
-User
-Issue
-Notification
-Sustainability
-
-Responsibilities:
-
-Designed MongoDB database architecture
-Created Mongoose schemas
-Defined field validations
-Established ObjectId relationships
-Configured MongoDB Atlas database
-Structured collections for scalability
-🔧 API Development
-FULL-37 Authentication and API Development
-
-Developed:
-
-User Registration API
-User Login API
-JWT Authentication
-Authorization Middleware
-User Profile API
-FULL-38 Issue Management API
-
-Developed:
-
-Create Issue API
-Get Issues API
-Update Issue Status API
-Delete Issue API
-Notification APIs
-Sustainability APIs
-
-💻 Technologies Used
-Node.js
-Express.js
-MongoDB Atlas
-Mongoose
-JWT
-Multer
-REST APIs
-
-📋 Jira Tasks
-FULL-36 Database Schema Design
-FULL-37 Authentication and API Development
-FULL-38 Issue Management API
-
-👤 Contributor
-Riaz Rakib Rahman
-
-Role: Database Designer & API Developer
-
-Assigned Jira Tasks
-FULL-36 Database Schema Design
-FULL-37 Authentication and API Development
-FULL-38 Issue Management API
-
-🙏 Acknowledgement
+## 🙏 Acknowledgement
 
 Special thanks to all team members who contributed to the development of the Smart Community Management System project.
