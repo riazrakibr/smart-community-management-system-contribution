@@ -130,6 +130,13 @@ Designed MongoDB collections and Mongoose schemas for:
 
 ---
 
-## Author
+## Contributor
 
-**Pavankumar V**
+Riaz Rakib Rahman
+
+### Contribution
+- Database Schema Design
+- Authentication API Development
+- Issue Management API
+- MongoDB Models
+- JWT Authentication
