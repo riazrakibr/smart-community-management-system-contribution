@@ -132,6 +132,7 @@ Developed:
 * JWT Authentication
 * Authorization Middleware
 * User Profile API
+* AI Suggestion API
 
 ### FULL-38 Issue Management API
 
@@ -143,6 +144,7 @@ Developed:
 * Delete Issue API
 * Notification APIs
 * Sustainability APIs
+* AI Suggestion APIs
 * Statistics API
 
 ---
