@@ -108,6 +108,7 @@ Designed MongoDB collections and Mongoose schemas for:
 * Issue
 * Notification
 * Sustainability
+* SuggestionLog
 
 ### Responsibilities
 
@@ -142,6 +143,7 @@ Developed:
 * Delete Issue API
 * Notification APIs
 * Sustainability APIs
+* Statistics API
 
 ---
 
